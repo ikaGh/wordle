@@ -53,3 +53,6 @@ The JavaScript file "wordle.js" is expected to contain the logic to initialize t
 
 
 //Overall, this HTML file provides the structure for the Wordle game interface, linking to external CSS and JavaScript files for styling and functionality, respectively. The game board and result display elements are defined within the body of the HTML document, with dynamic content and behavior handled by the associated JavaScript code.
+
+
+![image](https://github.com/ikaGh/wordle/assets/128742286/60764dc3-6e0b-4c46-8607-891730498518)
